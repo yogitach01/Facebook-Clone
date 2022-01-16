@@ -1,7 +1,6 @@
-# Facebook-Clone
-Facebook Clone created using java based on Graph data Structure
-# Facebook Clone 
 
+# Facebook Clone 
+Facebook Clone created using java based on Graph data Structure
 ###  Representation of Social Media using Graph Data Structure in Java
 
 
