@@ -6,7 +6,7 @@ Facebook Clone created using java based on Graph data Structure
 
 #### It is based on  "Social Media Networking"!
 
-<br/>
+
 ![Screenshot (31)](https://user-images.githubusercontent.com/80738479/151688225-2e3219ca-481a-4eff-8460-68ccd1ba61ea.png)
 
 
