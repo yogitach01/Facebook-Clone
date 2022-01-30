@@ -14,7 +14,8 @@ Facebook Clone created using java based on Graph data Structure
 
 
 <hr/>
-[![Facebook Clone ](https://img.youtube.com/vi/JThupBlPLT8)](https://www.youtube.com/watch?v=JThupBlPLT8)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JThupBlPLT8/0.jpg)](https://www.youtube.com/watch?v=JThupBlPLT8)
 
 <hr/>
 
