@@ -12,9 +12,9 @@ Facebook Clone created using java based on Graph data Structure
 
 ### Working
 
-https://youtu.be/JThupBlPLT8
 
 <hr/>
+[![Facebook Clone ](https://img.youtube.com/vi/JThupBlPLT8)](https://www.youtube.com/watch?v=JThupBlPLT8)
 
 <hr/>
 
